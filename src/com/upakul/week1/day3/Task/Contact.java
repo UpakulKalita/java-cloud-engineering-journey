@@ -1,6 +1,6 @@
-package com.upakul.week1.day2.PhoneBook;
+package com.upakul.week1.day3.Task;
 
-public class Contact  {
+public class Contact {
     private String firstName;
     private String lastName;
     private String phoneNumber;
